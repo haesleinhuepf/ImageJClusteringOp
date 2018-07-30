@@ -90,6 +90,11 @@
 			<artifactId>imglib2-ij</artifactId>
 		</dependency>
 		<dependency>
+			<groupId>org.swinglabs.swingx</groupId>
+			<artifactId>swingx-core</artifactId>
+			<version>1.6.3</version>
+		</dependency>
+		<dependency>
 			<groupId>org.bidib.jbidib.swinglabs.swingx</groupId>
 			<artifactId>swingx-all</artifactId>
 			<version>1.6.5-1</version>
@@ -143,11 +148,6 @@
 			<groupId>org.swinglabs</groupId>
 			<artifactId>swingx</artifactId>
 			<version>1.6.1</version>
-		</dependency>
-		<dependency>
-			<groupId>org.swinglabs</groupId>
-			<artifactId>swingx-core</artifactId>
-			<version>1.6.2</version>
 		</dependency>
 		<dependency>
 			<groupId>net.imagej</groupId>
